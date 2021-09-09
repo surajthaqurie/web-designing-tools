@@ -1,65 +1,65 @@
 ## Some Important tools for web designing.
 
-- Wire Framing:
+- **Wire Framing**:
   - https://wireframe.cc/
   ---
-- Web Colors:
+- **Web Colors**:
   - https://coolors.co/
   - https://color.adobe.com/create/color-wheel
-  - Color Picker
+  - ***Color Picker***
     - https://www.w3schools.com/colors/colors_picker.asp
-  - HEX To RGB
+  - ***HEX To RGB***
     - https://gratisography.com/
-  - Color Name & Hue
+  - ***Color Name & Hue***
     - https://www.color-blindness.com/color-name-hue/
 ---
-- Photos & Videos:
+- **Photos & Videos**:
   - https://unsplash.com/
   - https://picjumbo.com/
   - https://www.pexels.com/
   - https://gratisography.com/
 ---
-- Icons:
+- **Icons**:
   - https://www.svgrepo.com/
   - https://iconmonstr.com/ 
   - https://www.flaticon.com/
-  - Loading GIF
+  - ***Loading GIF***
     - https://loading.io/
-  - Favicon Generator
+  - ***Favicon Generator***
     - https://realfavicongenerator.net/
 ---  
-- Image Optimizer/Compressor:
+- **Image Optimizer/Compressor**:
   - https://imagecompressor.com/
   - https://tinypng.com/  
 ---
-- HTML Tools
-  - HTML Symbols
+- **HTML Tools**:
+  - ***HTML Symbols***
     - https://www.w3schools.com/charsets/ref_utf_symbols.asp
-  - HTML Entities
+  - ***HTML Entities***
     - https://www.w3schools.com/charsets/ref_html_entities_4.asp
-  - HTML ASCII Reference
+  - ***HTML ASCII Reference***
     - https://www.w3schools.com/charsets/ref_html_ascii.asp
-  - Markup Validation Service:
+  - ***Markup Validation Service***
     - https://validator.w3.org/#validate_by_input    
 ---
-- CSS Tools
-  - Grid Lover (CSS Demo)
+- **CSS Tools**:
+  - ***Grid Lover (CSS Demo)***
     - https://www.gridlover.net/try
-  - Golden Ratio Typography (GRT) Calculator 
+  - ***Golden Ratio Typography (GRT) Calculator*** 
     - https://grtcalculator.com/
-  - CSS Validation Service:
+  - ***CSS Validation Service***
     - https://jigsaw.w3.org/css-validator/#validate_by_input
 ---
-- Device Responsive Checker
+- **Device Responsive Checker**:
   - http://www.responsinator.com/
   
  ---
-- Latitude and Longitude Finder
+- **Latitude and Longitude Finder**:
   - https://www.latlong.net/
 ---
-- Code Emmit CheatSheet
+- **Code Emmit CheatSheet**:
   - https://docs.emmet.io/cheat-sheet/
 ----
-- Themes & Website Templates
+- **Themes & Website Templates**
   - https://themeforest.net/
-
+  - https://www.optimonk.com/
