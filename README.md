@@ -3,6 +3,9 @@
 - **Wire Framing**:
   - https://wireframe.cc/
   ---
+- **Fonts**:
+  - https://fonts.google.com/
+  ---
 - **Web Colors**:
   - https://coolors.co/
   - https://color.adobe.com/create/color-wheel
