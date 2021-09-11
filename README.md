@@ -23,9 +23,12 @@
   - https://gratisography.com/
 ---
 - **Icons**:
+  - https://linea.io/
   - https://www.svgrepo.com/
   - https://iconmonstr.com/ 
   - https://www.flaticon.com/
+  - https://www.designevo.com/
+  - https://www.freelogodesign.org/
   - ***Loading GIF***
     - https://loading.io/
   - ***Favicon Generator***
@@ -62,6 +65,9 @@
 ---
 - **Code Emmit CheatSheet**:
   - https://docs.emmet.io/cheat-sheet/
+----
+- **Browser Support Tables**:
+  - https://caniuse.com/
 ----
 - **Themes & Website Templates**
   - https://themeforest.net/
