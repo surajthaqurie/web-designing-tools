@@ -73,3 +73,6 @@
   - https://themeforest.net/
   - https://www.optimonk.com/
   - https://startbootstrap.com/admin-dashboard
+
+- **Angular inbuilt component**
+  - https://www.primefaces.org/primeng/
